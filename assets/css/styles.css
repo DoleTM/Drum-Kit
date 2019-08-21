@@ -1,0 +1,11 @@
+.keys {
+ justify-content: center;
+}
+
+.key {
+    transition: all .07s ease;
+}
+
+.playing {
+    transform: scale(1.1);
+}
